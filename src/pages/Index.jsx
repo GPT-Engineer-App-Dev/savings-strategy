@@ -1,4 +1,4 @@
-import { Box, Container, Flex, Heading, HStack, Image, Link, SimpleGrid, Text, VStack } from "@chakra-ui/react";
+import { Box, Container, Flex, Heading, HStack, Image, Link, SimpleGrid, Text } from "@chakra-ui/react";
 import { FaHome, FaChartLine, FaBuilding, FaLaptop, FaCommentDots } from "react-icons/fa";
 
 const articles = [
